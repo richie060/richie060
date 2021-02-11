@@ -1,4 +1,8 @@
 ### Hi there 👋
+My name is Richie Gachuhi.
+Lover of Photography|nerd taking on the #100daysofcode challenge
+Training to become a cyber sec guru|self-taught web developer|kotlin newbie|Aspiring Android app Developer.
+Feel free to connect with me.
 
 <!--
 **richie060/richie060** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +17,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
