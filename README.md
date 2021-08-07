@@ -48,10 +48,8 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.adityavsingh.com/"><img alt="Website" src=""></a>
+<a href="https://www.twitter.com/"><img alt="Website" src=""></a>
 <a href="https://www.linkedin.com/in/AVS1508/"><img alt="LinkedIn" src=""></a>
 <a href="https://www.instagram.com/adityavs_/"><img alt="Instagram" src=""></a>
 <a href="https://twitter.com/richiegachuhi?lang=en"><img alt="Email" src=""></a>
 </p>
-
-⭐️ From [AVS1508](https://github.com/AVS1508)
