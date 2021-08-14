@@ -47,9 +47,9 @@
 
 <p align="center">
   <ul>
-    <li a=href="https://twitter.com/richiegachuhi?lang=en">Richie gachuhi
+    <li a=href="https://twitter.com/richiegachuhi?lang=en">Twitter
 </a></li>
-    <li a=href="https://ke.linkedin.com/in/r%C3%AF%C3%A7h%C3%AC%C3%AA-g%C3%A3%C3%A7h%C3%BBh%C3%AC-189811195">Richie gachuhi</a></li>
+    <li a=href="https://ke.linkedin.com/in/r%C3%AF%C3%A7h%C3%AC%C3%AA-g%C3%A3%C3%A7h%C3%BBh%C3%AC-189811195">LinkedIn</a></li>
        
     <ul>
 <a href="https://www.twitter.com/"><img alt="Website" src=""></a>
