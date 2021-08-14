@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/richie060/richie060/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
-
 <h2> Hey there! I'm Richard Gachuhi.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
@@ -48,6 +46,11 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
+  <ul>
+    <li a=href="">;</a></li>
+    <li a=href="">;</a></li>
+       
+    <ul>
 <a href="https://www.twitter.com/"><img alt="Website" src=""></a>
 <a href="https://www.linkedin.com/in/AVS1508/"><img alt="LinkedIn" src=""></a>
 <a href="https://www.instagram.com/adityavs_/"><img alt="Instagram" src=""></a>
