@@ -1,13 +1,13 @@
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
+<img src="https://raw.githubusercontent.com/richie060/richie060/master/assets/Richie%20Gachuhi%20Singh%20Banner.png">
 
-<h2> Hey there! I'm Aditya.</h2>
+<h2> Hey there! I'm Richie Gachuhi.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst.
-- 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
+- 🎓 &nbsp; Currently in third year pursuing  Computer Science  at University Level.
+- 💼 &nbsp; Worked as Cyber security and software engineer at RDM agency and also a product designer at msosi.com.
+- 🌱 &nbsp; Learning more about Cyber security, Systems Design and Android development.
 - ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
@@ -58,4 +58,4 @@
 <a href="https://mail.google.com/mail/u/0/#inbox?compose=new"><img alt="Email" src="https://img.shields.io/badge/Email-richuhi060@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-⭐️ From [AVS1508](https://github.com/AVS1508)
+⭐️ From [richie060](https://github.com/richie060)
