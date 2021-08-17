@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/richie060/richie060/master/assets/Richie%20Gachuhi%20Singh%20Banner.png">
+
 <h2> Hey there! I'm Richie Gachuhi.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
