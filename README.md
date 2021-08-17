@@ -43,8 +43,8 @@
 <br/>
 
 <a href="https://github.com/richie060">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=richie0608&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=richie0608&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=richie060&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=richie060&theme=buefy&layout=compact" />
 </a>
 
 <br/>
