@@ -4,10 +4,10 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Currently in third year pursuing  Computer Science  at University Level.
+- 🎓 &nbsp;   Computer Science graduate.
 - 💼 &nbsp; Worked as Cyber security and software engineer at RDM agency and also a product designer at msosi.com.
-- 🌱 &nbsp; Learning more about Cyber security, Systems Design and Android development.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+- 🌱 &nbsp; Learning more about User interface designer, Systems Design and Android development.
+- ✍️ &nbsp; Pursuing Graphic Design and creating high fidelity prototype as hobbies/side hustles.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
